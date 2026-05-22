@@ -7,8 +7,25 @@
 ![License](https://img.shields.io/badge/license-MIT-red)
 ![Fyne](https://img.shields.io/badge/GUI-Fyne-00bfff)
 
+ 
 ---
+## 📢 Join Our Community
 
+Stay updated with the latest security tools, vulnerabilities, and hacking techniques!
+
+[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/PySecTools)
+ 
+
+### Why Join?
+- ✅ Latest CVE updates
+- ✅ New security tools
+- ✅ Hacking tutorials
+- ✅ Bug bounty tips
+- ✅ Community support
+
+**👉 Channel:** [@PySecTools](https://t.me/PySecTools)
+
+ ---
 ## 🔍 Description
 
 **PySecTools – WordPress Login Checker** is a desktop application designed for security professionals and ethical hackers to **test the validity of WordPress login credentials** in a controlled and authorized environment.
@@ -33,4 +50,4 @@ It uses a **cookie-based detection mechanism** to determine whether a given user
 
 ---
 
-## 🖥️ Screenshot
+
